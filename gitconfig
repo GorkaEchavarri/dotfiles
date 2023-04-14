@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gorkaechavarri@gmail.com
+	name = Gorka Echavarri
